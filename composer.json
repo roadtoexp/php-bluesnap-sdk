@@ -1,5 +1,5 @@
 {
-    "name": "shabananavas/php-bluesnap-sdk",
+    "name": "roadtoexp/php-bluesnap-sdk",
     "description": "A PHP SDK for the BlueSnap API",
     "keywords": ["bluesnap", "laravel"],
     "type": "library",
